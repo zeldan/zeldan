@@ -2,7 +2,6 @@
 
 I'm Daniel Zelei, a software engineer specializing in Python, Rust, and Flutter (Dart), with a solid foundation in Java. As a Google Cloud Architect Certified professional, I have extensive experience in designing and implementing cloud-based solutions and modern web applications. My diverse skill set enables me to tackle complex problems and adapt to various technological environments efficiently.
 
-I am collaborating with others to dedicate increasing amounts of time to working with Rust. Together, we have consolidated our projects within the "rust-dd" organization. You can explore the **rust-dd** organization [here](https://github.com/rust-dd/).
 
 ## Technical Skills
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
